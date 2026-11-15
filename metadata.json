@@ -1,0 +1,6 @@
+{
+  "name": "SELENA-7 Lunar Survival",
+  "description": "Foundational 3D lunar survival game environment set inside a stylized low-poly sci-fi lunar base overlooking Earth and lunar craters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
